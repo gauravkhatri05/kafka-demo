@@ -13,8 +13,18 @@
 10. [https://dzone.com/articles/kafka-consumer-architecture-consumer-groups-and-su](https://dzone.com/articles/kafka-consumer-architecture-consumer-groups-and-su)
 11. [https://www.youtube.com/watch?v=daRykH67_qs](https://www.youtube.com/watch?v=daRykH67_qs)
 12. [https://www.youtube.com/watch?v=R873BlNVUB4](https://www.youtube.com/watch?v=R873BlNVUB4)
-13. [https://www.baeldung.com/spring-kafka](https://www.baeldung.com/spring-kafka)
-14. [https://howtodoinjava.com/kafka/spring-boot-with-kafka/](https://howtodoinjava.com/kafka/spring-boot-with-kafka/)
+
+## Coding example
+1. Consumer Producer:
+   1. [https://www.baeldung.com/spring-kafka](https://www.baeldung.com/spring-kafka)
+   2. [https://howtodoinjava.com/kafka/spring-boot-with-kafka/](https://howtodoinjava.com/kafka/spring-boot-with-kafka/)
+2. Stream Api:
+   1. Stateful vs stateless stream operations:
+      1. 
+      2. [https://www.zirous.com/2020/05/20/the-state-of-stateful-kafka-operations/](https://www.zirous.com/2020/05/20/the-state-of-stateful-kafka-operations/)
+      3. [https://stackoverflow.com/questions/67469711/what-is-the-difference-between-stateful-and-stateless-transformation-in-kstreams](https://stackoverflow.com/questions/67469711/what-is-the-difference-between-stateful-and-stateless-transformation-in-kstreams)
+   2. [https://www.vinsguru.com/kafka-stream-with-spring-boot/](https://www.vinsguru.com/kafka-stream-with-spring-boot/)
+   3. [https://www.baeldung.com/java-kafka-streams](https://www.baeldung.com/java-kafka-streams)
 
 ##How to add consumers into ConsumerGroup:
 ###[Reference doc](https://stackoverflow.com/questions/62673586/how-to-create-multiple-consumers-in-a-consume-group-using-spring-provided-kafka)
